@@ -56,13 +56,8 @@ ul {
     margin-right: auto;
 }
 
-.container {
-    display: flex;
-    align-items: center;
-    gap: 15px;
-}
-
-.prof {
+.left,
+.right {
     display: flex;
     align-items: center;
     gap: 15px;
